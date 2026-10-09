@@ -6,6 +6,6 @@ public class Task03 {
        int num = sc.nextInt();
        int hour = num/60;
        int minutes = num%60;
-       System.out.println("Time is: " + hour + ":1" + minutes);
+       System.out.println("Time is: " + hour + ":" + minutes);
     }
 }
